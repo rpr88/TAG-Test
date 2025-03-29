@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "83fd7508-a51f-411d-96c1-9ccaa265640a",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "LAPR1973_10_25",
+  "parent": "d0162535-233d-4ca1-a087-273fdc582ad5",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "lapr19731025",
+  "created_at": "2025-03-29T16:40:43.040Z",
+  "created_by": "rpr88",
+  "updated_at": "2025-03-29T16:40:43.040Z",
+  "updated_by": "rpr88"
+}
